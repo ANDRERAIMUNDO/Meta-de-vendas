@@ -1,1 +1,1 @@
-export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "https://arct-meta.herokuapp.com"; 
+export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "https://demo----meta.buddy.cloud";
